@@ -1,4 +1,4 @@
-We're very glad you've found yourself a Raspberry Pi and are entering the world of Pi development. 
+A Raspberry Pi is a computer that has ports to plug into a computer monitor. It is capable of doing exactly what your normal laptop or desktop can do; it's just a lot cuter. We're very glad you've found yourself a Raspberry Pi and are entering the world of Pi development. 
 
 We started with a Canakit, that can be seen/purchased here: https://www.canakit.com/raspberry-pi-3-starter-kit.html
 
@@ -28,5 +28,10 @@ STEPS:
 5) Install Raspian (the OS) as prompted.
 6) Now the Pi is set up and ready to go!
 
+A note on formatting the SD Card:
 
-Do not format the SD card before hand if you purchase a Canakit! THen you won't have noobs automatically (Noobs is the software that installs the OS) If it a non CanaKit Pi, format the card (a number of free softwares online do this) and then install Noobs. Once Noobs is installed the Pi should work as expected and should prompt the install of Raspian.
+Do not format the SD card before hand if you purchase a Canakit! Then you won't have noobs automatically (Noobs is the software that installs the OS) If it a non CanaKit Pi, format the card (a number of free softwares online do this). One such software, SD Formatter 4.0  can be downloaded from this website : https://www.sdcard.org/downloads/formatter_4/index.html. An SD card is a memory card and it contains rows of memory chips that store documents, images, music etc. Memory card formatting is essentially cleaning the SD card by removing any data that was previously on it. Formatting memory cards is important because
+it maintains the card's full speed performance, preserves its storage capacity and reduces the risk of storage errors. Formatting a card is actually different from just deleting and erasing content that is stored. When data is erased from the card,
+the actual data still on the card, but will be overwritten with new data. Formatting a memory card loses all of its data irreversibly. 
+ 
+If you've formatted your Pi, then install Noobs from the RaspberryPi website. Once Noobs is installed the Pi should work as expected and should prompt the install of Raspian.
