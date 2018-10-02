@@ -12,11 +12,11 @@ Premium Quality HDMI Cable
 2 x Heat Sinks
 
 What you will need to get your hands on:
-a) A monitor (Preferably one with an HDMI port, else you will need a convertor from HDMI to whatever display port you have on your machine)
-b) a usb keyboard (bluetooth works, but the setup is tougher)
-c) a usb mouse
-d) an outlet
-e) wifi access. Optionally: an ethernet cable, ie a hard wired internet connection.
+a) A monitor (Preferably one with an HDMI port, otherwise you'll need a convertor from HDMI to whatever display port you have on your machine)
+b) A USB keyboard (bluetooth works, but the setup is tougher)
+c) A USB mouse
+d) An outlet
+e) WiFi access. Optionally: an ethernet cable, i.e. a hard wired internet connection.
 
 
 STEPS:
@@ -30,8 +30,8 @@ STEPS:
 
 A note on formatting the SD Card:
 
-Do not format the SD card before hand if you purchase a Canakit! Then you won't have noobs automatically (Noobs is the software that installs the OS) If it a non CanaKit Pi, format the card (a number of free softwares online do this). One such software, SD Formatter 4.0  can be downloaded from this website : https://www.sdcard.org/downloads/formatter_4/index.html. An SD card is a memory card and it contains rows of memory chips that store documents, images, music etc. Memory card formatting is essentially cleaning the SD card by removing any data that was previously on it. Formatting memory cards is important because
+Do not format the SD card before hand if you purchase a Canakit! Then you won't have NOOBS automatically (NOOBS is the software that installs the OS). If it a non CanaKit Pi, format the card (a number of free softwares online do this). One such software, SD Formatter 4.0  can be downloaded from this website : https://www.sdcard.org/downloads/formatter_4/index.html. An SD card is a memory card and it contains rows of memory chips that store documents, images, music etc. Memory card formatting is essentially cleaning the SD card by removing any data that was previously on it. Formatting memory cards is important because
 it maintains the card's full speed performance, preserves its storage capacity and reduces the risk of storage errors. Formatting a card is actually different from just deleting and erasing content that is stored. When data is erased from the card,
 the actual data still on the card, but will be overwritten with new data. Formatting a memory card loses all of its data irreversibly. 
  
-If you've formatted your Pi, then install Noobs from the RaspberryPi website. Once Noobs is installed the Pi should work as expected and should prompt the install of Raspian.
+If you've formatted your Pi, then install NOOBS from the RaspberryPi website. Once NOOBS is installed, the Pi should work as expected and should prompt you to install of Raspian.
